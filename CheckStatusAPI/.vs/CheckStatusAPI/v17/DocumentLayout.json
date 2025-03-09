@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNetCore\\CheckStatusAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\controllers\\checkstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\controllers\\checkstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\services\\interfaces\\icheckstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\services\\interfaces\\icheckstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\services\\implementations\\checkstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\services\\implementations\\checkstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\models\\responses\\checkstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\models\\responses\\checkstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\checkstatusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\checkstatusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\models\\requests\\checkstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\models\\requests\\checkstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|d:\\dotnetcore\\checkstatusapi\\checkstatusapi\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6743D34A-2736-4413-9BCD-A6BC6F2BAC5E}|CheckStatusAPI\\CheckStatusAPI.csproj|solutionrelative:checkstatusapi\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\wwwroot\\index.html",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "CheckStatusAPI\\wwwroot\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-09T15:53:41.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\appsettings.json",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\appsettings.json",
+              "RelativeToolTip": "CheckStatusAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-09T15:09:40.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Program.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Program.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:09:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckStatusService.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Services\\Implementations\\CheckStatusService.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Services\\Implementations\\CheckStatusService.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Services\\Implementations\\CheckStatusService.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Services\\Implementations\\CheckStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICheckStatusService.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Services\\Interfaces\\ICheckStatusService.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Services\\Interfaces\\ICheckStatusService.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Services\\Interfaces\\ICheckStatusService.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Services\\Interfaces\\ICheckStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:01:55.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckStatusResponse.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Models\\Responses\\CheckStatusResponse.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Models\\Responses\\CheckStatusResponse.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Models\\Responses\\CheckStatusResponse.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Models\\Responses\\CheckStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:00:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckStatusAPI.csproj",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\CheckStatusAPI.csproj",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\CheckStatusAPI.csproj",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\CheckStatusAPI.csproj",
+              "RelativeToolTip": "CheckStatusAPI\\CheckStatusAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T14:58:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckStatusController.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Controllers\\CheckStatusController.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Controllers\\CheckStatusController.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Controllers\\CheckStatusController.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Controllers\\CheckStatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:57:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:03:45.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:03:07.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:02:43.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckStatusRequest.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Models\\Requests\\CheckStatusRequest.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Models\\Requests\\CheckStatusRequest.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Models\\Requests\\CheckStatusRequest.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Models\\Requests\\CheckStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:00:34.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CheckStatusAPI\\Models\\Entities\\User.cs",
+              "ToolTip": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "CheckStatusAPI\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:59:23.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check User Status</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Check User Status</h1>
+
+        <!-- GET Request Form -->
+        <div class="form-group">
+            <label for="msisdn">Enter MSISDN (GET Request):</label>
+            <input type="text" id="msisdn" placeholder="1234567890">
+            <button onclick="getUserStatus()">Check Status (GET)</button>
+        </div>
+
+        <!-- POST Request Form -->
+        <div class="form-group">
+            <label for="post-msisdn">Enter MSISDN (POST Request):</label>
+            <input type="text" id="post-msisdn" placeholder="1234567890">
+            <button onclick="postUserStatus()">Check Status (POST)</button>
+        </div>
+
+        <!-- Display API Response -->
+        <div class="response">
+            <h2>API Response:</h2>
+            <pre id="api-response"></pre>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "CYLN1XoiE5zwAKXZbIgrwoQi7dVE46Ox+Ueq+f8LyQ4=",
+  "Source": "CheckStatusAPI",
+  "BasePath": "_content/CheckStatusAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CheckStatusAPI\\wwwroot",
+      "Source": "CheckStatusAPI",
+      "ContentRoot": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\",
+      "BasePath": "_content/CheckStatusAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\index.html",
+      "SourceId": "CheckStatusAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\",
+      "BasePath": "_content/CheckStatusAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09d779duoz",
+      "Integrity": "1Ll7jk8pcx8+HUgIlSwzrxm4LlMRRt91jdANmw1TnXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\script.js",
+      "SourceId": "CheckStatusAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\",
+      "BasePath": "_content/CheckStatusAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3a9wa6lt2t",
+      "Integrity": "+6hG093a83AMoIkFYg2CqmNOLMAKSQVF0n4i/bVqvsM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\styles.css",
+      "SourceId": "CheckStatusAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\",
+      "BasePath": "_content/CheckStatusAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fya9zgoac6",
+      "Integrity": "SR1SgjCk/Om+mCMELb0bUDozwG20yKahgK0kyV0O6LA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.09d779duoz.html",
+      "AssetFile": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Ll7jk8pcx8+HUgIlSwzrxm4LlMRRt91jdANmw1TnXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09d779duoz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Ll7jk8pcx8+HUgIlSwzrxm4LlMRRt91jdANmw1TnXQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Ll7jk8pcx8+HUgIlSwzrxm4LlMRRt91jdANmw1TnXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:51:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Ll7jk8pcx8+HUgIlSwzrxm4LlMRRt91jdANmw1TnXQ="
+        }
+      ]
+    },
+    {
+      "Route": "script.3a9wa6lt2t.js",
+      "AssetFile": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+6hG093a83AMoIkFYg2CqmNOLMAKSQVF0n4i/bVqvsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3a9wa6lt2t"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+6hG093a83AMoIkFYg2CqmNOLMAKSQVF0n4i/bVqvsM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+6hG093a83AMoIkFYg2CqmNOLMAKSQVF0n4i/bVqvsM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+6hG093a83AMoIkFYg2CqmNOLMAKSQVF0n4i/bVqvsM="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SR1SgjCk/Om+mCMELb0bUDozwG20yKahgK0kyV0O6LA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:51:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SR1SgjCk/Om+mCMELb0bUDozwG20yKahgK0kyV0O6LA="
+        }
+      ]
+    },
+    {
+      "Route": "styles.fya9zgoac6.css",
+      "AssetFile": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1126"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SR1SgjCk/Om+mCMELb0bUDozwG20yKahgK0kyV0O6LA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:51:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fya9zgoac6"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SR1SgjCk/Om+mCMELb0bUDozwG20yKahgK0kyV0O6LA="
+        }
+      ]
+    }
+  ]
+}

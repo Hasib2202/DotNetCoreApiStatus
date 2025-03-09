@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "D:\\DotNetCore\\CheckStatusAPI\\CheckStatusAPI\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CheckStatusAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CheckStatusAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CheckStatusAPI.props",
+      "PackagePath": "build\\CheckStatusAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CheckStatusAPI.props",
+      "PackagePath": "buildMultiTargeting\\CheckStatusAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CheckStatusAPI.props",
+      "PackagePath": "buildTransitive\\CheckStatusAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
